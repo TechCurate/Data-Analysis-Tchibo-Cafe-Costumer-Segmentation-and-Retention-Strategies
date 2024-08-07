@@ -1,7 +1,7 @@
 # Data Analysis: Tchibo Cafe Costumer Segmentation and Retention Strategies
 
 
-##**1. Brief Introduction**
+**1. Brief Introduction**
 
 This is a dynamic data analysis workflow where we will develop a strategy to boost customer retention for a struggling Tchibo Cafe in Munich.
 
@@ -9,7 +9,7 @@ Tchibo: Germany's beloved coffee retailer and cafe
 Location: Prime spot in Munich, surrounded by office buildings
 Customers: Mostly local professionals
 
-##**2. Problem**
+**2. Problem**
    
 In the past six months, the Tchibo Cafe in Munich has seen troubling changes/ challenges that are giving the manager sleepless nights.
 
