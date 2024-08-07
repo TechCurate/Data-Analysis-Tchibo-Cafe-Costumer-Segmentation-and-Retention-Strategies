@@ -1,4 +1,7 @@
 # Data-Analysis-Tchibo-Cafe-Costumer-Segmentation-and-Retention-Strategies
+
+##1. Brief Introduction
+
 This is a dynamic data analysis workflow where we will develop a strategy to boost customer retention for a struggling Tchibo Cafe in Munich.
 
 Tchibo: Germany's beloved coffee retailer and cafe
